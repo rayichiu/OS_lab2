@@ -1,2 +1,2 @@
 # OS_lab2
-Scheduling
+Scheduler / Dispatcher
